@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Babar Azam",
+    "type": "batsman",
+    "strikeRate": 130.75,
+    "economyRate": 0
+  },
+  {
+    "name": "Fakhar Zaman",
+    "type": "batsman",
+    "strikeRate": 135.2,
+    "economyRate": 0
+  },
+  {
+    "name": "Mohammad Rizwan",
+    "type": "batsman",
+    "strikeRate": 133.8,
+    "economyRate": 0
+  },
+  {
+    "name": "Asif Ali",
+    "type": "batsman",
+    "strikeRate": 136.7,
+    "economyRate": 0
+  },
+  {
+    "name": "Haider Ali",
+    "type": "batsman",
+    "strikeRate": 140.1,
+    "economyRate": 0
+  },
+  {
+    "name": "Imad Wasim",
+    "type": "allrounder",
+    "strikeRate": 128.3,
+    "economyRate": 4.5
+  },
+  {
+    "name": "Shadab Khan",
+    "type": "allrounder",
+    "strikeRate": 125.5,
+    "economyRate": 5.2
+  },
+  {
+    "name": "Faheem Ashraf",
+    "type": "allrounder",
+    "strikeRate": 118.4,
+    "economyRate": 6.0
+  },
+  {
+    "name": "Shoaib Malik",
+    "type": "allrounder",
+    "strikeRate": 126.9,
+    "economyRate": 6.2
+  },
+  {
+    "name": "Shaheen Afridi",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 3.8
+  },
+  {
+    "name": "Haris Rauf",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.6
+  },
+  {
+    "name": "Hasan Ali",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.0
+  },
+  {
+    "name": "Mohammad Nawaz",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.8
+  },
+  {
+    "name": "Usman Qadir",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.7
+  },
+  {
+    "name": "Mohammad Hasnain",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.1
+  },
+  {
+    "name": "Mohammad Amir",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.2
+  },
+  {
+    "name": "Sarfaraz Ahmed",
+    "type": "batsman",
+    "strikeRate": 125.4,
+    "economyRate": 0
+  },
+  {
+    "name": "Khushdil Shah",
+    "type": "batsman",
+    "strikeRate": 130.9,
+    "economyRate": 0
+  },
+  {
+    "name": "Iftikhar Ahmed",
+    "type": "batsman",
+    "strikeRate": 129.5,
+    "economyRate": 0
+  },
+  {
+    "name": "Mohammad Hafeez",
+    "type": "allrounder",
+    "strikeRate": 132.1,
+    "economyRate": 6.0
+  }
+]

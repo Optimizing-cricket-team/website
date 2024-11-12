@@ -1,0 +1,99 @@
+[
+  {
+    "name": "Steve Smith",
+    "type": "batsman",
+    "strikeRate": 128.4,
+    "economyRate": 0
+  },
+  {
+    "name": "David Warner",
+    "type": "batsman",
+    "strikeRate": 138.3,
+    "economyRate": 0
+  },
+  {
+    "name": "Aaron Finch",
+    "type": "batsman",
+    "strikeRate": 141.6,
+    "economyRate": 0
+  },
+  {
+    "name": "Glenn Maxwell",
+    "type": "allrounder",
+    "strikeRate": 150.1,
+    "economyRate": 6.5
+  },
+  {
+    "name": "Pat Cummins",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.1
+  },
+  {
+    "name": "Mitchell Starc",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.9
+  },
+  {
+    "name": "Marcus Stoinis",
+    "type": "allrounder",
+    "strikeRate": 140.5,
+    "economyRate": 6.8
+  },
+  {
+    "name": "Josh Hazlewood",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.7
+  },
+  {
+    "name": "Adam Zampa",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.2
+  },
+  {
+    "name": "Alex Carey",
+    "type": "batsman",
+    "strikeRate": 120.0,
+    "economyRate": 0
+  },
+
+  {
+    "name": "Ashton Agar",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.1
+  },
+  {
+    "name": "Tim David",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.9
+  },
+  {
+    "name": "Cameroon Green",
+    "type": "allrounder",
+    "strikeRate": 140.5,
+    "economyRate": 6.8
+  },
+  {
+    "name": "Josh Inglis",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.7
+  },
+  {
+    "name": "Nathan Lyon",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.2
+  },
+  {
+    "name": "Shane Watson",
+    "type": "batsman",
+    "strikeRate": 120.0,
+    "economyRate": 0
+  }
+]

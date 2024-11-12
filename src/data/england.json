@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Joe Root",
+    "type": "batsman",
+    "strikeRate": 126.7,
+    "economyRate": 0
+  },
+  {
+    "name": "Ben Stokes",
+    "type": "allrounder",
+    "strikeRate": 138.6,
+    "economyRate": 6.1
+  },
+  {
+    "name": "Jos Buttler",
+    "type": "batsman",
+    "strikeRate": 144.2,
+    "economyRate": 0
+  },
+  {
+    "name": "Jason Roy",
+    "type": "batsman",
+    "strikeRate": 139.8,
+    "economyRate": 0
+  },
+  {
+    "name": "Jofra Archer",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.2
+  },
+  {
+    "name": "Chris Woakes",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.9
+  },
+  {
+    "name": "Adil Rashid",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.7
+  },
+  {
+    "name": "Eoin Morgan",
+    "type": "batsman",
+    "strikeRate": 135.5,
+    "economyRate": 0
+  },
+  {
+    "name": "Sam Curran",
+    "type": "allrounder",
+    "strikeRate": 133.3,
+    "economyRate": 6.5
+  },
+  {
+    "name": "Jonny Bairstow",
+    "type": "batsman",
+    "strikeRate": 137.4,
+    "economyRate": 0
+  },
+  {
+    "name": "chris Jordan",
+    "type": "bowler",
+    "strikeRate": 133.3,
+    "economyRate": 6.5
+  },
+  {
+    "name": "Moeen Ali",
+    "type": "batsman",
+    "strikeRate": 137.4,
+    "economyRate": 0
+  },
+  {
+    "name": "Mark Wood",
+    "type": "bowler",
+    "strikeRate": 133.3,
+    "economyRate": 6.5
+  },
+  {
+    "name": "Ben Ducket",
+    "type": "batsman",
+    "strikeRate": 137.4,
+    "economyRate": 0
+  },
+  {
+    "name": "Tom Hartly",
+    "type": "bowler",
+    "strikeRate": 137.4,
+    "economyRate": 0
+  },
+  {
+    "name": "Phil Salt",
+    "type": "bowler",
+    "strikeRate": 137.4,
+    "economyRate": 0
+  }
+]

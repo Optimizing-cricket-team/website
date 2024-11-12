@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Virat Kohli",
+    "type": "batsman",
+    "strikeRate": 138.25,
+    "economyRate": 0
+  },
+  {
+    "name": "Rohit Sharma",
+    "type": "batsman",
+    "strikeRate": 132.45,
+    "economyRate": 0
+  },
+  {
+    "name": "KL Rahul",
+    "type": "batsman",
+    "strikeRate": 135.3,
+    "economyRate": 0
+  },
+  {
+    "name": "Rishabh Pant",
+    "type": "batsman",
+    "strikeRate": 141.5,
+    "economyRate": 0
+  },
+  {
+    "name": "Shreyas Iyer",
+    "type": "batsman",
+    "strikeRate": 128.2,
+    "economyRate": 0
+  },
+  {
+    "name": "Hardik Pandya",
+    "type": "allrounder",
+    "strikeRate": 140.8,
+    "economyRate": 6.5
+  },
+  {
+    "name": "Ravindra Jadeja",
+    "type": "allrounder",
+    "strikeRate": 126.7,
+    "economyRate": 5.7
+  },
+  {
+    "name": "Washington Sundar",
+    "type": "allrounder",
+    "strikeRate": 125.4,
+    "economyRate": 6.0
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.8
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 4.2
+  },
+  {
+    "name": "Mohammed Shami",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.1
+  },
+  {
+    "name": "Shardul Thakur",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.0
+  },
+  {
+    "name": "Navdeep Saini",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.4
+  },
+  {
+    "name": "T Natarajan",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 6.2
+  },
+  {
+    "name": "Deepak Chahar",
+    "type": "bowler",
+    "strikeRate": 0,
+    "economyRate": 5.9
+  },
+  {
+    "name": "Axar Patel",
+    "type": "allrounder",
+    "strikeRate": 115.6,
+    "economyRate": 6.1
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "type": "batsman",
+    "strikeRate": 144.1,
+    "economyRate": 0
+  },
+  {
+    "name": "Sanju Samson",
+    "type": "batsman",
+    "strikeRate": 137.6,
+    "economyRate": 0
+  },
+  {
+    "name": "Prithvi Shaw",
+    "type": "batsman",
+    "strikeRate": 149.0,
+    "economyRate": 0
+  },
+  {
+    "name": "Ishan Kishan",
+    "type": "batsman",
+    "strikeRate": 145.2,
+    "economyRate": 0
+  }
+]
